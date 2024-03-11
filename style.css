@@ -1,0 +1,24 @@
+p{
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    height 20%;
+    width: 20%;
+    border-color: beige;
+    border-radius: 30px;
+}
+*{
+    background-color: aqua;
+}
+#Title{
+    font-weight: 800;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+#Small{
+    color: darkolivegreen;
+}
